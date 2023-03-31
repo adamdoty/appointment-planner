@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+thead {
+  text-align: left;
+}
+
+td,
+th {
+  padding-right: 1rem;
+}
+
+.alert {
+  margin-top: 0;
+  color: darkred;
+}
+
+ul {
+  padding-left: 0;
+}
